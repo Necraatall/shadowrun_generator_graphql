@@ -1,0 +1,6 @@
+hatch==1.9.3
+hatchling==1.21.1
+strawberry-graphql==0.220.0
+fastapi==0.110.0
+uvicorn==0.28.0
+
